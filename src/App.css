@@ -1,4 +1,6 @@
 body{
+  -webkit-font-smoothing: antialiased !important;
+  font-family: 'Roboto', sans-serif;
   font-family: Arial, Helvetica, sans-serif;
   background: #f2f2f2;
 }
